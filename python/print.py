@@ -1,0 +1,18 @@
+str_text = '''-----BEGIN PRIVATE KEY-----
+							MIICeAIBADANBgkqhkiG9w0BAQEFAASCAmIwggJeAgEAAoGBANoacNRGEXALeEJp
+							N2LTrkfmAJuGD2WL2+VLFbQzJDAimR6zf4ovX0j6kQ7OZhTtGtBTfX4+L2oRzFo/
+							g/fyG7E79+TKyBoAk3LtUC5ckwlToXS+RN39pB1YVTEQv4u4WJlATw9d8aQBRk9D
+							3EFVov3sg86NPd7JJHGVPpIKZ+fVAgMBAAECgYEAwei+JcyCFmbsLcdUCdZ/3cad
+							BakEKVlWUR8XldXeN7ma/1PBcf86LS0xKMPSuIoxy8RfD42EJD7cu+Q6lYg4mw8d
+							VObVGXgLpGZ6rYlzb2/Ml+8NtzN1Jn6zKJzbn3sX+mExTHlaxguTQbzOAAwuEqFq
+							j2BB6kNtAlheEdYMNiUCQQD5N0Ck/Mqz+u5GTDhHoAToRgcMH5JJ6b/rnsLgkswv
+							mzjJTDdoquIHJhqEOxQKwSjH4P/2PhgJvH6Fb0PB0ShrAkEA4ApenUOZlKL5EFeV
+							fjpjCce/qfCmny1/o1XAw+TwL3Of0uLr4CxKA3g3dGiSIyRNv7BC0W2K/4CrLmwe
+							v8BAvwJAQ2UQw01ll9SFOVeFZME+cn31i+7BxeFDuHlfpBGuzDUC31UQKusDYwGH
+							7Dh5zAq+d4c+UR4rq/5gjL8xKKnibwJBALUs7ZJzxlEC8jMbANORV+Hi3MYKzFPR
+							MXTetgI0s19MO6UIyQMCDeB8aSwEHJm6k/0+BurhkRRJ8ySZXsxmJnUCQQCChnKo
+							27VaKBjkMNT4vtoGG/ga+4cpAs51r7F1XSQoLY7ohsHkHE4tA0F3mg9Yke3ySsCd
+							fQaO6rCC983EHMC1
+							-----END PRIVATE KEY-----'''
+
+print(str_text)
